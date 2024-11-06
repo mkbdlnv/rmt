@@ -1,0 +1,169 @@
+.logo{
+   width: 150px !important;
+   height: 150px !important;
+}
+
+.navbar-nav .nav-link{
+    color: white;
+    background-color: #749EFA;
+    border-radius: 25px;
+    font-size: 1.5em;
+}
+
+.navbar-nav .nav-link:hover{
+    color: yellow;
+}
+
+.slogan-img{
+    width: 70%;
+}
+
+#slogan{
+    font-size: 4em;
+    max-width: 500px;
+    text-align: center;
+    font-weight: bold;
+    color: #749EFA;
+}
+
+#becomeClientBtn{
+    background-color: #749EFA;
+    border: 0;
+    border-radius: 20px;
+    font-size: 1.7em;
+    max-width: 250px;
+}
+
+
+#becomeClientBtn:hover{
+    color: #70CB41;
+}
+
+#services{
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+}
+
+#services h2{
+    color: #749EFA;
+    font-size: 4em;
+}
+
+.service-card{
+    min-height: 450px;
+    background-color: #749EFA;
+    border-radius: 50px;
+}
+
+.service-card h3{
+    color: white;
+    margin-top: 40px !important;
+}
+
+.service-card ul{
+    list-style: none;
+
+}
+
+.service-card ul li{
+    font-size: 1.2em;
+    color: white;
+}
+
+
+.service-info{
+    padding-left: 0;
+}
+
+#navbar{
+    background-color: #D9D9D9;
+}
+
+.navbar{
+    background-color: #D9D9D9 !important;
+}
+
+#aboutUs{
+    background-color: #749EFA;
+    padding-bottom: 30px;
+}
+
+#aboutUs h3{
+    margin-top: 30px;
+    font-size: 4em;
+    color: white;
+}
+
+#aboutUs p{
+    font-size: 1.5em;
+    color: white;
+    margin: 0 50px;
+    text-align: justify;
+}
+
+#sloganBox{
+    margin-top: 50px;
+}
+
+#footer{
+    background-color: #D9D9D9;
+}
+
+.iconImg{
+    max-width: 50px;
+    margin: 0 20px;
+}
+
+#footer .row .col{
+    min-height: 150px;
+    
+}
+
+#register h2{
+    color: #749EFA;
+}
+
+.btnRegister{
+    background-color: #749EFA;
+    border: 0;
+}
+
+.credit-card {
+    height: 200px;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+
+.credit-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-number {
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+}
+
+.card-holder {
+    text-transform: uppercase;
+}
+
+#cardLogo{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+#dashboard h1{
+    text-transform: uppercase;
+    color:#749EFA;
+}
+
+#dashboard h2{
+    text-transform: uppercase;
+    color:#749EFA;
+}
+
+#dashboard{
+    min-height: 400px;
+}
